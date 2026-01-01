@@ -2,6 +2,9 @@
 
 A console-based ATM simulation written in Java using object-oriented programming principles.
 
+## Purpose
+This project focuses on practicing core Java and object-oriented programming concepts.
+
 ## Features
 - Login using account number
 - Deposit and withdraw money
@@ -12,7 +15,7 @@ A console-based ATM simulation written in Java using object-oriented programming
 
 ## Technologies
 - Java
-- OOP (Encapsulation, Abstraction, Static members)
+- Object-Oriented Programming (OOP)
 
 ## How to Run
 1. Compile the project
